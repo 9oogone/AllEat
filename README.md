@@ -133,7 +133,7 @@ YOLOv10 객체 탐지 모델을 활용하여 식단 사진 촬영 시 메뉴를 
 
 ![architecture](./readmeimg/arch.png)
 
-### 🎯 기술 도입 배경 (Tech Stack Rationale)
+### 🎯 기술 도입 배경
 
 | 분류 | 기술 스택 | 도입 목적 및 의사결정 근거 |
 | :--- | :--- | :--- |
